@@ -1,0 +1,18 @@
+body {
+	background-color: #1a1b1b;
+	font-family: Helvetica, Arial, "Helvetica Neue", Geneva, sans-serif;
+	text-align: center;
+}
+
+h1, h2 {
+	color: #f6f6f6;
+	text-shadow: 0 0 5px #000;
+}
+
+h1 {
+	margin-bottom: 15px;
+}
+
+#container {
+	margin: 100px 0 0;
+}
