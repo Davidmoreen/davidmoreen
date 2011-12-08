@@ -21,7 +21,7 @@ $config['site_description'] = "";
 $config['site_keywords']    = array();
 
 
-$config['home_post'] = 3;  // max # of posts on home page
+$config['home_post'] = 3;  // id of post on homepage
 
 
 // mailer settings
